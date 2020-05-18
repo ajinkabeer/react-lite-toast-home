@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-lite-toast-home/static/css/main.e2b3d4f3.chunk.css",
-    "main.js": "/react-lite-toast-home/static/js/main.e14e2fbe.chunk.js",
-    "main.js.map": "/react-lite-toast-home/static/js/main.e14e2fbe.chunk.js.map",
+    "main.js": "/react-lite-toast-home/static/js/main.342b2112.chunk.js",
+    "main.js.map": "/react-lite-toast-home/static/js/main.342b2112.chunk.js.map",
     "runtime-main.js": "/react-lite-toast-home/static/js/runtime-main.07de1eed.js",
     "runtime-main.js.map": "/react-lite-toast-home/static/js/runtime-main.07de1eed.js.map",
     "static/css/2.4941cf3d.chunk.css": "/react-lite-toast-home/static/css/2.4941cf3d.chunk.css",
     "static/js/2.2bd8d5a0.chunk.js": "/react-lite-toast-home/static/js/2.2bd8d5a0.chunk.js",
     "static/js/2.2bd8d5a0.chunk.js.map": "/react-lite-toast-home/static/js/2.2bd8d5a0.chunk.js.map",
     "index.html": "/react-lite-toast-home/index.html",
-    "precache-manifest.b5f81025338f0233e8cba37e8d69e1f4.js": "/react-lite-toast-home/precache-manifest.b5f81025338f0233e8cba37e8d69e1f4.js",
+    "precache-manifest.9a08f1c2a0c1d3802e7a0874c228370f.js": "/react-lite-toast-home/precache-manifest.9a08f1c2a0c1d3802e7a0874c228370f.js",
     "service-worker.js": "/react-lite-toast-home/service-worker.js",
     "static/css/2.4941cf3d.chunk.css.map": "/react-lite-toast-home/static/css/2.4941cf3d.chunk.css.map",
     "static/css/main.e2b3d4f3.chunk.css.map": "/react-lite-toast-home/static/css/main.e2b3d4f3.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.4941cf3d.chunk.css",
     "static/js/2.2bd8d5a0.chunk.js",
     "static/css/main.e2b3d4f3.chunk.css",
-    "static/js/main.e14e2fbe.chunk.js"
+    "static/js/main.342b2112.chunk.js"
   ]
 }
