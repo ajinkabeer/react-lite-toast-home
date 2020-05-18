@@ -8531,6 +8531,11 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-lite-toast@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-lite-toast/-/react-lite-toast-1.0.1.tgz#e1dffb101fa191d8995653d311df4008b28a24bf"
+  integrity sha512-n40zUShTD7DQVBsJ29/L7DC7Yj8pBk/yCWjuneXp+RUDg225Ke8D0w/3JakRNGM2IcSMurI9kkltrin1yNJX2A==
+
 react-scripts@3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/react-scripts/-/react-scripts-3.4.1.tgz#f551298b5c71985cc491b9acf3c8e8c0ae3ada0a"
