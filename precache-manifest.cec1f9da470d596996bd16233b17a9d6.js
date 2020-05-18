@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e390e5686ae971919dcc07a3019d72ab",
+    "revision": "dfcb1e5fb6feaaa45aaee4d68ec7582d",
     "url": "/react-lite-toast-home/index.html"
   },
   {
-    "revision": "a14119b43d4739bb4b06",
+    "revision": "d8be2ef4c6cfb2ac8533",
     "url": "/react-lite-toast-home/static/css/2.4941cf3d.chunk.css"
   },
   {
-    "revision": "7c919e09d9282e961c74",
-    "url": "/react-lite-toast-home/static/css/main.cba0581f.chunk.css"
+    "revision": "2a7cad7a33384bf96c1b",
+    "url": "/react-lite-toast-home/static/css/main.e2b3d4f3.chunk.css"
   },
   {
-    "revision": "a14119b43d4739bb4b06",
-    "url": "/react-lite-toast-home/static/js/2.1328218e.chunk.js"
+    "revision": "d8be2ef4c6cfb2ac8533",
+    "url": "/react-lite-toast-home/static/js/2.4a0c1c2b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/react-lite-toast-home/static/js/2.1328218e.chunk.js.LICENSE.txt"
+    "url": "/react-lite-toast-home/static/js/2.4a0c1c2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c919e09d9282e961c74",
-    "url": "/react-lite-toast-home/static/js/main.f564dccc.chunk.js"
+    "revision": "2a7cad7a33384bf96c1b",
+    "url": "/react-lite-toast-home/static/js/main.ab3fa865.chunk.js"
   },
   {
     "revision": "48f88cf34739b8001ad2",
@@ -40,8 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-lite-toast-home/static/media/error~sZYKhomM.12333ffe.svg"
   },
   {
+    "revision": "c517f7a2f142311e01f4eb08a1a9f647",
+    "url": "/react-lite-toast-home/static/media/github.c517f7a2.svg"
+  },
+  {
     "revision": "e4cf123d407f6d678330c8caebc8587f",
     "url": "/react-lite-toast-home/static/media/info~hXvLIqUM.e4cf123d.svg"
+  },
+  {
+    "revision": "a363d0b97aa9d55d0a07dccf3fcedb11",
+    "url": "/react-lite-toast-home/static/media/npm.a363d0b9.svg"
   },
   {
     "revision": "184b15534b3a1a389febf7cde782f61e",
