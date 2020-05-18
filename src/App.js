@@ -20,12 +20,12 @@ function App() {
     setToast(!toast)
   }
 
+
   return (
     <div className="App">
       <header className="App-header">
         <h1>React-lite-toast <span aria-label="zap emoji" role="img">⚡</span></h1>
         <a href="https://www.github.com/ajinkabeer/react-lite-toast" target="_blank" rel="noopener noreferrer"><img className="logo-img" src={github} alt="github" /></a>
-
         <a href="https://www.npmjs.com/package/react-lite-toast" target="_blank" rel="noopener noreferrer"><img className="logo-img" src={npm} alt="npm" /></a>
         <p>A minimal toast notification for react with bundled size of 3 kB.</p>
         <button class="btn success" onClick={() => toastHandler('success', 'bottomup', 'Success', 'Dunder Mifflin')}>success</button>
