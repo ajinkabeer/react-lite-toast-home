@@ -24,7 +24,7 @@ function App() {
         <a href="https://www.github.com/ajinkabeer/react-lite-toast">GitHub</a>
         <br />
         <a href="https://www.npmjs.com/package/react-lite-toast">npm</a>
-        <p>A minimal toast notification for react with bundled size of 3 kB <span aria-label="zap emoji" role="img">⚡</span></p>
+        <p>A minimal toast notification for react with bundled size of 3 kB.</p>
         <button class="btn success" onClick={() => toastHandler('success', 'bottomup', 'Success', 'Dunder Mifflin')}>success</button>
         <button class="btn error" onClick={() => toastHandler('error', 'topdown', 'Failed', 'Battlestart Galatica')}>error</button>
         <button class="btn warning" onClick={() => toastHandler('warning', 'bottomright', 'Warning', 'Wooooof')} >warning</button>

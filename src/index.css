@@ -55,24 +55,20 @@ code {
 .success:hover {
   color:#2ea05d;
   background-color:#fff;
-  border:2px solid #2ea05d;
-}
+ }
 
 .error:hover {
   color:#E53E3E;
   background-color:#fff;
-  border:2px solid #E53E3E ;
-}
+ }
 
 .warning:hover {
   color:#DD6B20;
   background-color:#fff;
-  border:2px solid #DD6B20 ;
-}
+ }
 
 
 .info:hover {
   color:#3182ce;
   background-color:#fff;
-  border:2px solid #3182ce ;
-}
+ }
