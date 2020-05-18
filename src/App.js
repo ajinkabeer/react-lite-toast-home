@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import { Toast } from 'react-lite-toast'
+import github from './assets/github.svg'
+import npm from './assets/npm.svg'
+
 import 'react-lite-toast/dist/index.css'
 
 function App() {
@@ -21,9 +24,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React-lite-toast <span aria-label="zap emoji" role="img">⚡</span></h1>
-        <a href="https://www.github.com/ajinkabeer/react-lite-toast">GitHub</a>
-        <br />
-        <a href="https://www.npmjs.com/package/react-lite-toast">npm</a>
+        <a href="https://www.github.com/ajinkabeer/react-lite-toast" target="_blank" rel="noopener noreferrer"><img className="logo-img" src={github} alt="github" /></a>
+
+        <a href="https://www.npmjs.com/package/react-lite-toast" target="_blank" rel="noopener noreferrer"><img className="logo-img" src={npm} alt="npm" /></a>
         <p>A minimal toast notification for react with bundled size of 3 kB.</p>
         <button class="btn success" onClick={() => toastHandler('success', 'bottomup', 'Success', 'Dunder Mifflin')}>success</button>
         <button class="btn error" onClick={() => toastHandler('error', 'topdown', 'Failed', 'Battlestart Galatica')}>error</button>

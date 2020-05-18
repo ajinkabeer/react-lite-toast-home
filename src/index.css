@@ -1,19 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
+ 
 .App {
   height: 100vh;
+  margin-left: 25%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -71,4 +68,23 @@ code {
 .info:hover {
   color:#3182ce;
   background-color:#fff;
+ }
+
+.logo-img{
+   width: 4%;
+   margin: 1rem;
+ }
+
+.logo-img:hover {
+   transform: scale(1.5);
+ }
+
+ @media screen and (max-width:900px){
+  .logo-img {
+    width: 10%;
+  }
+
+  .App{
+    margin-left: 10%;
+  }
  }
