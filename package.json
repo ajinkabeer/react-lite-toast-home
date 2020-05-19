@@ -11,7 +11,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-lite-toast": "^1.0.3",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-syntax-highlighter": "^12.2.1"
   },
   "scripts": {
     "predeploy": "yarn run build",
