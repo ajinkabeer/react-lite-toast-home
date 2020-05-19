@@ -22,7 +22,10 @@ function App() {
     setMessage(message)
     setDuration(duration)
     setCode(`<Toast type="${type}" title="${title}" description="${message}" position="${position}" duration={${duration}} />`)
-    setToast(!toast)
+    setTimeout(() => {
+      setToast(prevState => !prevState)
+    }, 2000)
+    setToast(prevState => !prevState)
   }
 
 
@@ -39,7 +42,7 @@ function App() {
         <button className="btn info" onClick={() => toastHandler('info', 'bottomleft', 'Info', 'Please note', 1500)}>info</button>
 
         {toast && <Toast type={toastType} title={title} description={message} position={position} duration={duration} />}
-        {toast && <Syntax code={code} />}
+        <Syntax code={code} />
       </header>
     </div>
   );
