@@ -8578,10 +8578,10 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-lite-toast@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-lite-toast/-/react-lite-toast-1.0.2.tgz#2636cbcd72c003c48db8b2a18e0ee0c54acfa3cc"
-  integrity sha512-1Z3heYZZa+41wNuI1i6dW5+uwZLuxt4a2gGaRcLGPDde6TFawroVrM8YDFQPLjwANYgep67feOXJ7fkh+9suQA==
+react-lite-toast@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-lite-toast/-/react-lite-toast-1.0.3.tgz#b00713b53f9c8ec45e80050ef3662a1d6acef1f1"
+  integrity sha512-rDWzUaLjAl3buN+547FfySM7kPUDF8KvnAHFmAVl3PWTCuw5bxcRk/mf+BGbhfNfX0rfhXJW8IUfmQb3YupfXg==
 
 react-scripts@3.4.1:
   version "3.4.1"
